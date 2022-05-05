@@ -1,0 +1,48 @@
+ul{
+    list-style: none;
+}
+
+.navbar{
+    background-color: black;
+    overflow: hidden;
+}
+
+.navbar a{
+    float: left;
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.navbar li{
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: pink;
+    color: red;
+}
+
+body{
+    background-color: blue;
+    
+}
+
+.aligned{
+    background-color: deeppink;
+}
+
+.lower-footer{
+    background-color: black;
+    float: left;
+    color: yellow;
+    text-align: center;
+    padding: 14px 17px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.lower-footer a{
+    text-decoration: none;
+    
+}
